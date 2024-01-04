@@ -2,7 +2,6 @@
 """ empty class named rectangle"""
 
 
-
 class Rectangle:
     """an empty class"""
     pass
